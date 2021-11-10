@@ -5,6 +5,6 @@ will be able to add, delete or edit the content of each one. At the same time yo
 a table with the content of the respective sql table.
 
 The conections between the program and the database is establish by using a java sql connector
-also added in the repositori.
+also added in the repository.
 
 Finally you will find the sql file in the repository.
